@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yogendra@techdecodetutorials.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DQlY7WKRGhuls6DArd9CzOJ6cMqfeHu0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1O9ppLIf89wTcyL4nhK_YK1-Kzr-m6YmE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
