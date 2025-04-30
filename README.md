@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://techdecodetutorials.com/](https://techdecodetutorials.com/)
 
-- 📫 How to reach me **yogendra@techdecodetutorials.com**
+- 📫 How to reach me **contact@yogendrasingh.in**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kWSWXsg5CzZZQDAEx7gRyuvdpzwwaert/view?usp=sharing)
 
