@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **[Ultralytics Platform](https://platform.ultralytics.com/)**, Train and deploy custom computer vision YOLO models easily.  
 - 🧠 I design and ship **Frontend, Backend, and Cloud infrastructure** End-to-End  
-- 📝 I regularly write technical articles on [https://techdecodetutorials.com/](https://techdecodetutorials.com/)  
-- 📫 How to reach me **contact@yogendrasingh.in**  
-- 📄 Know about my experience [Resume](https://drive.google.com/file/d/1kWSWXsg5CzZZQDAEx7gRyuvdpzwwaert/view?usp=sharing)
+- 🧪 I built **[QA Ready](https://qaready.net/)** Free interview prep platform for QA Engineers & SDETs with 70+ coding questions and 60+ theory questions covering JavaScript, Playwright, testing methodologies, and more
+- 📫 How to reach me **contact@yogendrasingh.in**
+- 🌐 Check out my portfolio at [yogendrasingh.in](https://yogendrasingh.in)
 
 
 <h3 align="left">Connect with me:</h3>
